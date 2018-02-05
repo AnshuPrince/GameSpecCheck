@@ -1,0 +1,2 @@
+# GameSpecCheck
+Deprecated
